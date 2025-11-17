@@ -32,7 +32,8 @@ To explore the fundamentals of **UI (User Interface)** and **UX (User Experience
 
 ## **Output:**
 
-1. Fundamentals of UI and UX
+*1. Fundamentals of UI and UX:-*
+
 User Interface (UI)
 
 UI refers to the visual layout and interactive elements of a digital product. It includes everything the user sees and touches on the screen.
@@ -69,13 +70,18 @@ Feedback and testing
 
 UX answers "How does it work and feel?"
 
-2. Difference Between UI and UX
-UI (User Interface)	UX (User Experience)
-Appearance of the product	Functionality & feeling
-Focuses on screens, icons, visuals	Focuses on user flow and task completion
-Deals with color, style, layout	Deals with user needs, ease, efficiency
-Goal: make product attractive	Goal: make product usable & enjoyable
-3. Case Studies (Real-World Examples)
+*2. Difference Between UI and UX*
+
+   
+UI (User Interface)                                    	UX (User Experience)
+Appearance of the product	                               Functionality & feeling
+Focuses on screens, icons, visuals                      	Focuses on user flow and task completion
+Deals with color, style, layout	                       Deals with user needs, ease, efficiency
+Goal: make product attractive                        	Goal: make product usable & enjoyable
+
+
+*3. Case Studies (Real-World Examples)*
+
 Instagram
 
 UI:
@@ -128,7 +134,7 @@ Multiple payment options
 
 Live tracking and safety features
 
-4. Relationship Between UI and UX
+*4. Relationship Between UI and UX*
 
 UI and UX are interdependent.
 A design succeeds only when:
@@ -145,7 +151,8 @@ The booking flow (UX) is quick and efficient.
 
 Thus, UI = how it looks, UX = how it works, and together they create a complete digital experience.
 
-5. Tools Used in UI/UX
+*5. Tools Used in UI/UX*
+
 1. Figma
 
 Most popular cloud-based design tool
